@@ -25,7 +25,7 @@ function App() {
   }, [search]);
 
   return (
-    <div className="w-ful min-h-screen flex items-center justify-center bg-gray-50 p-6">
+    <div className="w-[100vw] min-h-screen flex items-center justify-center bg-gray-50 p-6">
       <div className="w-full max-w-2xl">
         <div className="relative">
           <div className="bg-white rounded-2xl p-4 border-2 border-transparent focus-within:border-blue-300 transition-shadow focus-within:shadow-lg">
