@@ -56,7 +56,7 @@ function App() {
                   />
                   <div>
                     <div className="font-semibold text-gray-800">
-                      {u.firstName} {u.lastName}
+                      {u.firstName} {u.maidenName} {u.lastName}
                     </div>
                     <div className="text-sm text-gray-500">{u.email}</div>
                   </div>
